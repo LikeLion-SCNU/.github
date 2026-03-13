@@ -8,6 +8,8 @@
 
 <br>
 
+[![Homepage](https://img.shields.io/badge/🦁%20순천대%20멋사-FF7F00?style=for-the-badge)](https://likelionscnu.site/)
+[![LikeLion Univ](https://img.shields.io/badge/멋사대학-FF9E1B?style=for-the-badge)](https://likelion.university/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/likelion_scnu)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunchon.univ@likelion.org)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LikeLion-SCNU)
@@ -55,7 +57,7 @@
 | 역할 | 이름 | GitHub |
 |:---:|:---:|:---:|
 | 🦁 대표 | 박현빈 | [@Hbin77](https://github.com/Hbin77) |
-| 운영진 | 고재우 |  |
+| 운영진 | 고재우 | [@summercat](https://github.com/summercat01) |
 | 운영진 | 곽민성 | |
 | 운영진 | 이영민 | |
 
