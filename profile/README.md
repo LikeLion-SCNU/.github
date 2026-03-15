@@ -59,7 +59,7 @@
 | 🦁 대표 | 박현빈 | [@Hbin77](https://github.com/Hbin77) |
 | 운영진 | 고재우 | [@summercat](https://github.com/summercat01) |
 | 운영진 | 곽민성 | |
-| 운영진 | 이영민 | |
+| 운영진 | 이영민 | [@yeongmin1231](https://github.com/yeongmin1231) |
 
 <br>
 
