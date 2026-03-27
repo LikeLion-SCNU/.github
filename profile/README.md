@@ -57,9 +57,21 @@
 | 역할 | 이름 | GitHub |
 |:---:|:---:|:---:|
 | 🦁 대표 | 박현빈 | [@Hbin77](https://github.com/Hbin77) |
-| 🦁 운영진 | 고재우 | [@summercat](https://github.com/summercat01) |
-| 🦁 운영진 | 곽민성 | |
-| 🦁 운영진 | 이영민 | |
+| 🦁 운영진 | 고재우 | [@summercat01](https://github.com/summercat01) |
+| 🦁 운영진 | 곽민성 | [@Kwak-min](https://github.com/Kwak-min) |
+| 🦁 운영진 | 이영민 | [@yeongmin1231](https://github.com/yeongmin1231) |
+
+<br>
+
+## 🏗️ 14기 프로젝트
+
+| 팀 | PM | Frontend | Backend |
+|:---:|:---:|:---:|:---:|
+| Team 1 | 이제혁 | [repo](https://github.com/LikeLion-SCNU/team-1-frontend) | [repo](https://github.com/LikeLion-SCNU/team-1-backend) |
+| Team 2 | 이태호 | [repo](https://github.com/LikeLion-SCNU/team-2-frontend) | [repo](https://github.com/LikeLion-SCNU/team-2-backend) |
+| Team 3 | 김준서 | [repo](https://github.com/LikeLion-SCNU/team-3-frontend) | [repo](https://github.com/LikeLion-SCNU/team-3-backend) |
+| Team 4 | 고재우 | [repo](https://github.com/LikeLion-SCNU/team-4-frontend) | [repo](https://github.com/LikeLion-SCNU/team-4-backend) |
+| Team 5 | 박현빈 | [repo](https://github.com/LikeLion-SCNU/team-5-frontend) | [repo](https://github.com/LikeLion-SCNU/team-5-backend) |
 
 <br>
 
